@@ -1,0 +1,59 @@
+# Install Redis  
+- name: Install redis on Rocky Linux
+  dnf:
+    name: redis
+    state: present
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

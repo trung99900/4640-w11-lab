@@ -1,0 +1,5 @@
+# Handler to restart Nginx after configuration changes  
+- name: restart nginx  
+  service:  
+    name: nginx  
+    state: reloaded
