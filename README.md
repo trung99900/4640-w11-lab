@@ -52,4 +52,4 @@ This playbook will complete tasks for both the frontend and Redis servers.
 
 Make sure all dependencies (e.g., SSH keys and required Ansible plugins) are configured correctly before running the playbook
 
-server-img.jpg
+![Frontend Server Screenshot](server-img.jpg)
